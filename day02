@@ -1,0 +1,22 @@
+# Day 2 - Variable and Input and Output Practice
+  # variables
+  Name = "Manobhiram"
+  Age = 19
+  Marks = 91.5
+    
+  print("Name:", Name)
+  print("Age:", Age)
+  print("Marks:", Marks)
+
+  # input from user
+  user_name = input("Enter your name:")
+  user_age = int(input("Enter your age"))
+
+  print("Hello", user_name)
+  print("Next year your age will be", user_age+1))
+ 
+  # small calculations
+  a = 18
+  b = 7
+  print(a*b)
+  print(a-b)
